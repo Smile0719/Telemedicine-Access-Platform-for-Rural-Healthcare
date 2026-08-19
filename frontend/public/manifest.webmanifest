@@ -1,0 +1,10 @@
+{
+  "name": "Rural Health Connect",
+  "short_name": "RuralHealth",
+  "description": "Offline-first patient registration and telemedicine referral platform for rural communities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "orientation": "portrait"
+}
